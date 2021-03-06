@@ -1,3 +1,6 @@
+- name: Dependabot Pull Request Action
+  uses: koj-co/dependabot-pr-action@v1.0.0
+
 models:
   - name: yolo-v2-tiny-vehicle-detection-0001
     launchers:
